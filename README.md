@@ -40,6 +40,6 @@ Sistema full stack para gerenciamento de tarefas e equipes.
 - LinkedIn: [Tiago Mendelsson](https://www.linkedin.com/in/tiagomendelsson)
 
 <p align="center">
-  <img src="https://github.com/Tmendelsson/Tmendelsson/blob/main/ChatGPT%20Image%2010%20de%20mar.%20de%202026%2C%2012_35_15.png" width="100%" height=50px />
+  <img src="https://github.com/Tmendelsson/Tmendelsson/blob/main/ChatGPT%20Image%2010%20de%20mar.%20de%202026%2C%2012_35_15.png" width="100%" />
 </p>
 
