@@ -12,7 +12,7 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 
 ## Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=react,angular,python,php,laravel,docker,postgres,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,angular,python,php,laravel,docker,postgres,mysql,Java,Javascript)
 
 ## Estatísticas
 
