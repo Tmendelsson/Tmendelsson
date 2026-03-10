@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;React+%7C+Angular+%7C+Python+%7C+PHP;APIs+REST+%7C+Docker+%7C+SQL;Construindo+sistemas+web+escal%C3%A1veis" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiagomendelsson">LinkedIn</a>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -28,11 +23,10 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 
 ## 📊 Estatísticas
 
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tmendelsson&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmendelsson&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tmendelsson&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tmendelsson&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 💼 Projetos em destaque
