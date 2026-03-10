@@ -24,6 +24,7 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 - PHP
 - Laravel
 - Java
+- JavaScript
 
 ### Banco de Dados
 - PostgreSQL
