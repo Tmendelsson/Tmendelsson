@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;React+%7C+Angular+%7C+Python+%7C+PHP;APIs+REST+%7C+Docker+%7C+SQL;Construindo+sistemas+web+escal%C3%A1veis" alt="Typing SVG" />
 </p>
----
+
+<p align="center">
+  <img src="https://github.com/Tmendelsson/Tmendelsson/blob/main/ChatGPT%20Image%2010%20de%20mar.%20de%202026%2C%2012_35_15.png" width="100%" />
+</p>
 
 ## 🚀 Sobre mim
 
@@ -38,8 +41,4 @@ Sistema full stack para gerenciamento de tarefas e equipes.
 ## 📫 Contato
 
 - LinkedIn: [Tiago Mendelsson](https://www.linkedin.com/in/tiagomendelsson)
-
-<p align="center">
-  <img src="https://github.com/Tmendelsson/Tmendelsson/blob/main/ChatGPT%20Image%2010%20de%20mar.%20de%202026%2C%2012_35_15.png" width="100%" />
-</p>
 
