@@ -38,6 +38,10 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 - TDD
 - BDD
 
+### TaskFlow Manager
+Sistema full stack para gerenciamento de tarefas e equipes.
+**Stack:** React, Python, PostgreSQL, Docker
+
 ## Contato
 
 - LinkedIn: [Tiago Mendelsson](https://www.linkedin.com/in/tiagomendelsson)
