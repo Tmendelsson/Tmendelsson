@@ -12,32 +12,15 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 
 ## Tecnologias
 
-### Frontend
-- React
-- Angular
-- JavaScript
-- TypeScript
-- Tailwind CSS
+![My Skills](https://skillicons.dev/icons?i=react,angular,python,php,laravel,docker,postgres,mysql)
 
-### Backend
-- Python
-- PHP
-- Laravel
-- Java
-- JavaScript
+## Estatísticas
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmendelsson&show_icons=true)
 
-### Ferramentas e práticas
-- Docker
-- Git
-- APIs REST
-- TDD
-- BDD
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tmendelsson&layout=compact)
+
+## Projetos em destaque
 
 ### TaskFlow Manager
 Sistema full stack para gerenciamento de tarefas e equipes.
