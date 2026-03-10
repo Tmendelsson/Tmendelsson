@@ -38,3 +38,8 @@ Sistema full stack para gerenciamento de tarefas e equipes.
 ## 📫 Contato
 
 - LinkedIn: [Tiago Mendelsson](https://www.linkedin.com/in/tiagomendelsson)
+
+<p align="center">
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsaz4lcj23bt31.png" width="100%" height=10px />
+</p>
+
