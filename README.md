@@ -39,11 +39,11 @@ Sistema full stack para gerenciamento de tarefas e equipes.
 **Stack:** React, Python, PostgreSQL, Docker
 
 ### StockOS
-Sistema Full Stack para Sistema de gestão de estoque com foco em cenário empresarial real.
+Sistema Full Stack para Sistema de gestão de estoque com foco em cenário empresarial real.  
 **Stack:** Angular, Node.js, PostgreSQL, Docker
 
 ### Dotnet Job Runner 
-Plataforma backend para agendar, executar, monitorar e reprocessar tarefas assíncronas.
+Plataforma backend para agendar, executar, monitorar e reprocessar tarefas assíncronas.  
 **Stack:** .NET 8 ASP,.NET Core Web API, Hangfire ,PostgreSQL ,Entity Framework Core ,Serilog ,Swagger
 
 ## 📫 Contato
