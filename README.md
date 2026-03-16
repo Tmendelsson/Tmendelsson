@@ -19,7 +19,7 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 ## 🛠 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,py,php,laravel,docker,postgres,mysql,java,js,ts,git,cs,dotnet,eclipse,github,gitlab,linux,nodejs,npm,postgres,postman,powershell,spring,visualstudio,vscode,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,angular,py,php,laravel,docker,postgres,mysql,java,js,ts,git,cs,dotnet,eclipse,github,gitlab,linux,nodejs,npm,postman,powershell,spring,visualstudio,vscode,bootstrap,tailwind" />
 </p>
 
 ---
