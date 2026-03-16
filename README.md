@@ -19,7 +19,7 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 ## 🛠 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,py,php,laravel,docker,postgres,mysql,java,js,ts,git" />
+  <img src="https://skillicons.dev/icons?i=react,angular,py,php,laravel,docker,postgres,mysql,java,js,ts,git,cs,dotnet,eclipse,github,gitlab,linux,nodejs,npm,postgres,postman,powershell,spring,visualstudio,vscode,bootstrap,tailwind" />
 </p>
 
 ---
@@ -37,6 +37,14 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 ### TaskFlow Manager
 Sistema full stack para gerenciamento de tarefas e equipes.  
 **Stack:** React, Python, PostgreSQL, Docker
+
+### StockOS
+Sistema Full Stack para Sistema de gestão de estoque com foco em cenário empresarial real.
+**Stack** Angular, Node.js, PostgreSQL, Docker
+
+## Dotnet Job Runner 
+Plataforma backend para agendar, executar, monitorar e reprocessar tarefas assíncronas.
+**Stack** .NET 8 ASP,.NET Core Web API, Hangfire ,PostgreSQL ,Entity Framework Core ,Serilog ,Swagger
 
 ## 📫 Contato
 
