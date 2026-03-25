@@ -34,9 +34,13 @@ Tenho foco em criar soluções organizadas, escaláveis e alinhadas com boas pr�
 
 ## 💼 Projetos em destaque
 
+https://github.com/user-attachments/assets/5f391584-3756-400e-b8d1-ffe269b77266
+
 ### TaskFlow Manager
 Sistema full stack para gerenciamento de tarefas e equipes.  
 **Stack:** React, Python, PostgreSQL, Docker
+
+
 
 ### StockOS
 Sistema Full Stack para Sistema de gestão de estoque com foco em cenário empresarial real.  
